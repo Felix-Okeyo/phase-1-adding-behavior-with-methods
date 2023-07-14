@@ -10,7 +10,7 @@ class Cat {
     }
   }
   
-  class Dog {
+class Dog {
     constructor(name, sex) {
       this.name = name;
       this.sex = sex;
@@ -21,7 +21,7 @@ class Cat {
     }
   }
   
-  class Bird {
+class Bird {
     constructor(name, sex) {
       this.name = name;
       this.sex = sex;
